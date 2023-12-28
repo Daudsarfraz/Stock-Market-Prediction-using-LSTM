@@ -1,5 +1,3 @@
-# Stock-market-Prediction-using-LSTM
-
 <h1 align="center">💰 Stock Market Prediction using LSTM 💸</h1>
 
 <p align="center">
